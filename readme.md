@@ -4,8 +4,6 @@
 短剧插件https://pan.xunlei.com/s/VNrz92dRgpHmAI5sxmL_-mSfA1
 提取码：saqz
 
-短剧插件教程https://docs.qq.com/doc/DU1FXYWJDZEJmbVdQ
-
 短剧实时目录https://docs.qq.com/doc/DU1BhdWN4bUFLVlJP
 
 1.先卸载老版本微信，然后解压文件下载微信
