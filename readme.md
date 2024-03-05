@@ -1,5 +1,12 @@
 短剧插件教程
-by.Panda
+
+
+短剧插件https://pan.xunlei.com/s/VNrz92dRgpHmAI5sxmL_-mSfA1
+提取码：saqz
+
+短剧插件教程https://docs.qq.com/doc/DU1FXYWJDZEJmbVdQ
+
+短剧实时目录https://docs.qq.com/doc/DU1BhdWN4bUFLVlJP
 
 1.先卸载老版本微信，然后解压文件下载微信
 ![image](https://github.com/1441853031/-/assets/63350299/ea9bdc00-cea0-4f35-bf3e-978d12604bd1)
