@@ -12,6 +12,8 @@
 安装完先不要登录
 2.启动框架
 ![image](https://github.com/1441853031/-/assets/63350299/50dc3293-b575-4421-921d-b570485a0021)
+直接点‘按钮’，插件不需要注册
+![image](https://github.com/1441853031/duanju-robot-wx/assets/63350299/6ac72f8d-846d-4eb5-80d9-2532205bebfb)
 
 
 然后会弹出登录微信-登录即可
